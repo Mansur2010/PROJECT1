@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
+ASUS = "https://www.olx.kz/d/obyavlenie/asus-rog-strix-g15-g531gt-IDnYMvy.html"
 ACER = "https://www.olx.kz/d/obyavlenie/noutbuk-acer-v-otlichnom-sostoyanii-s-garantiey-IDnZ7Ew.html"
-ASUS = "https://www.olx.kz/d/obyavlenie/asus-tuf-gaming-gtx1050-ryzen-3550h-IDnZgl2.html?isPreviewActive=0&sliderIndex=0"
 LENOVO = "https://www.olx.kz/d/obyavlenie/noutbuk-lenovo-g50-70-IDnZ41I.html"
 
 hello = {
